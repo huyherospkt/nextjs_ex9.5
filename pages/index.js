@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <Link href={{ pathname: '/stocks', query: { id: 3 } }} as="/stock-code/3">
-                                <a className={`nav-link`} aria-haspopup="true" aria-expanded="false" title="User">1. Link nay dung mothod Link (Ok)</a>
+                                <a className={`nav-link`} aria-haspopup="true" aria-expanded="false" title="User">1. Link nay dung method Link (Ok)</a>
                             </Link>
         <br />
         <br />
