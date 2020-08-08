@@ -1,5 +1,5 @@
 module.exports = {
-    experimental: {
+    
         async rewrites() {
             return [
               {
@@ -9,7 +9,7 @@ module.exports = {
               },
             ]
           },
-    },
+    
     
   }
   
